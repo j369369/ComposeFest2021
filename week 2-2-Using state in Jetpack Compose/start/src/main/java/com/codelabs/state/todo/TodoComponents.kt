@@ -227,7 +227,7 @@ fun TodoInputText(
 /**
  * Styled button for [TodoScreen]
  *
- * @param onClick (event) notify caller of click events
+ * @param onClick (event) notify caller of click eventsScaffold
  * @param text button text
  * @param modifier modifier for button
  * @param enabled enable or disable the button
